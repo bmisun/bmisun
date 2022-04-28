@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bmisun
-- 👀 I’m interested in ...
-- 🌱 I’m currently training ...
-- 🌱 I’m currently teaching html, css, and so on
+- 🌱 I’m currently training&teaching html, css, JS and so on
+- 👀 I’m interested in collaborate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bmisun@live.com
 
